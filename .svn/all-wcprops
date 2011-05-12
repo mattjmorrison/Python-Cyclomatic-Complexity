@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/!svn/ver/25/python/cyclic_complexity
+END
+pygenie.py
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/!svn/ver/25/python/cyclic_complexity/pygenie.py
+END
+test_cc.py
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/!svn/ver/24/python/cyclic_complexity/test_cc.py
+END
+cc.py
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/!svn/ver/25/python/cyclic_complexity/cc.py
+END
